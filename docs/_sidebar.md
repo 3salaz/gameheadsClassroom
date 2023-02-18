@@ -1,0 +1,14 @@
+- [Course Welcome](course-welcome)
+- [Week 1 (Feb 18 - 24)](module-01)
+- [Week 2 (Feb 25 - 3)](module-02)
+- [Week 3 (March 4 - 10)](module-03)
+- **LMS Links**
+- [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar](https://canvas.sfu.ca/courses/44038/calendar)
+- [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Assignments](https://canvas.sfu.ca/courses/44038/assignments )
+- [![Quizzes Icon](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080) Quizzes](#)
+- [![Class Discussions Icon](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080) Class Discussions](#)
+- [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Syllabus](#)
+- **Lessons**
+  - [Git & GitHub]()
+  - [Linux]()
+  - [Programming](/)
