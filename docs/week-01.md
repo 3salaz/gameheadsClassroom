@@ -18,14 +18,19 @@
 
 
 ## Downloads
-- [Vs Code]()
+- [Vs Code](https://code.visualstudio.com/)
 - [Web Browser]()  
-- [Version Control]()  
 - [Package Manager]() 
 - [Local Web Server]()  
 - [Text Editor]()  
 - [Command Line]()
+- [Version Control]()  
 
+## Tools/Extensitons
+- Oh MY ZSH
+- Live Server
+- Prettier
+- C#
 # HW Task
 
 Get into pairs before you leave. With your teammate you will crate a single repository. Doesn't matter who makes it but it must be one of you. Once created on github you will add a collaborator and add you teammates username or email address and have them join the repository.

@@ -1,4 +1,4 @@
-# Git and Github
+# Javascript
 
 **Duration: 40 min**
 ---
@@ -8,13 +8,13 @@
 ### Commands covered:
 
 - Initialize a git repository
-`cd [directory_name]`
+`git init`
 - Add you changes to your git log
-`ls [ Options ] [File]`
+`git add .]`
 - Commit your changes to your git log
-`cp [OPTION] Source Destination`
+`git commit -m "commit message"`
 - Link to your github repository
-`mv [Option] source destination`
+`gi`
 - Push to GitHub
 `rm [OPTION]... FILE...`
 - Change git branch
