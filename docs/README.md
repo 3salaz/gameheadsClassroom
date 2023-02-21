@@ -10,13 +10,9 @@
 # [<kbd><h1>Enter Homepage<h1></kbd>][Home]
 
 
-
 </div>
 
 <!---------------------------------------------------------------------------->
-
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
 
 [Home]: _home.md
 [#]: #
