@@ -15,5 +15,5 @@
 [Classroom]: https://3salaz.github.io/gameheadsClassroom/
 
 <!---------------------------------[ Badges ]---------------------------------->
-[Release]: https://img.shields.io/github/v/release/3salaz/gameheadsClassroom?include_prereleases&style=for-the-badge
+[Release]: https://img.shields.io/github/v/release/3salaz/gameheadsClassroom?include_prereleases&style=social
 [Badge Stars]: https://img.shields.io/github/stars/3salaz/gameheadsClassroom?style=social
