@@ -1,22 +1,19 @@
 <div align = center>
 
-[![Badge Likes]][#]
+![Badge Stars]
+![Release]
 
 ![Gameheads Logo](/docs/assets/images/gh-logo-700.png)
 
-<br>
-<br>
 
-# [<kbd><h1>Enter Homepage<h1></kbd>][Home]
-
+# [<kbd><h1>Enter Homepage<h1></kbd>][Classroom]
 
 </div>
 
 <!---------------------------------------------------------------------------->
 
-[Home]: _home.md
-[#]: #
+[Classroom]: https://3salaz.github.io/gameheadsClassroom/
 
 <!---------------------------------[ Badges ]---------------------------------->
-
-[Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
+[Release]: https://img.shields.io/github/v/release/3salaz/gameheadsClassroom?include_prereleases&style=for-the-badge
+[Badge Stars]: https://img.shields.io/github/stars/3salaz/gameheadsClassroom?style=social
