@@ -1,30 +1,19 @@
 <div align = center>
 
-[![Badge License]][License]   
-[![Badge Likes]][#]
+![Badge Stars]
+![Release]
 
-![Gameheads Logo]('/docs/assets/images/gh-logo-700.png')
+![Gameheads Logo](/docs/assets/images/gh-logo-700.png)
 
-<br>
-<br>
-    
-# Programming Classroom
 
-[<kbd><br>HomePage<br></kbd>][KBD]
+# [<kbd><h1>Enter Homepage<h1></kbd>][Classroom]
 
 </div>
 
 <!---------------------------------------------------------------------------->
 
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-[License]: LICENSE
-
-[KBD]: Types/KBD.md
-[#]: #
+[Classroom]: https://3salaz.github.io/gameheadsClassroom/
 
 <!---------------------------------[ Badges ]---------------------------------->
-
-[Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
-
-[Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
+[Release]: https://img.shields.io/github/v/release/3salaz/gameheadsClassroom?include_prereleases&style=social
+[Badge Stars]: https://img.shields.io/github/stars/3salaz/gameheadsClassroom?style=social
