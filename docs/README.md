@@ -3,7 +3,7 @@
 [![Badge License]][License]   
 [![Badge Likes]][#]
 
-![Gameheads Logo]('/docs/assets/images/gh-logo-700.png')
+![Gameheads Logo](/docs/assets/images/gh-logo-700.png)
 
 <br>
 <br>
