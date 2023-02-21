@@ -8,9 +8,9 @@
 <br>
 <br>
     
-# Programming Classroom
+# [<kbd><br>Enter Homepage<br></kbd>][KBD]
 
-[<kbd><br>HomePage<br></kbd>][KBD]
+
 
 </div>
 
