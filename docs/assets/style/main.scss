@@ -1,0 +1,22 @@
+@import './theme';
+.sidebar-nav{
+    /* background-color: aqua; */
+    list-style-type: disc;
+}
+
+.app-sub-sidebar li:before{
+    content: "·";
+    padding-right: 4px;
+    float: left;
+    color: red;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+.app-name-link img{
+
+    width: 90%;
+}

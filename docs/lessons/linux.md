@@ -1,4 +1,4 @@
-# Linux and your terminal
+# Linux & Your Terminal
 
 [Google Slide](google.com) | Duration: 45 min
 
@@ -24,7 +24,7 @@ The objective of this lesson is to provide basic commands-line functionality. Be
 `cd [filepath]`
 > This command is used to change into a new folder. Using the file path you can navigate into any folder with one line in the terminal
 ---
-#### ls | List Directory
+### ls | List Directory
 `ls [ Options ] [File]`
 > List files in the current directory
 ---
@@ -48,9 +48,11 @@ The objective of this lesson is to provide basic commands-line functionality. Be
 > This command allows you to create a file
 ---
 
-## Practice
-> Clone down the repository using `git clone https://github.com/3salaz/linuxNavigation.git` follow the instruction below or from README.md and complete the practice.
-**Linux Navigation**
+## Practice | Linux Navigation
+
+> **Follow the instruction below or from README.md**
+
+- Clone down the repository using `git clone https://github.com/3salaz/linuxNavigation.git`
 - Make a directory in your root file named [your-name-here].
 - Go into [your-name-here] directory and make 2 directories, [old], and [new]
 - Go into your [old] folder, and create a file named [oldCopy.txt]
@@ -59,3 +61,5 @@ The objective of this lesson is to provide basic commands-line functionality. Be
 - Delete the [old] folder
 - Go into your [new] directory
 - Done!
+
+---
