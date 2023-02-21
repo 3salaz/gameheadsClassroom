@@ -22,12 +22,6 @@
 #### **Mac 💻**
 - [Text Editor| Vs Code](https://code.visualstudio.com/)
 - [Web Browser| Chrome](https://www.google.com/chrome/)
-<!-- - [Package Manager | HomeBrew](https://brew.sh/) -->
-<!-- > Homebrew installs the stuff you need that Apple (or your Linux system) didn't. Homebrew installs packages to their own directory and then symlinks their files into /usr/local (on macOS Intel). -->
-<!-- [Local Web Server]() -->
-- [Command Line | Iterm2](https://iterm2.com/)
-- [Version Control]()
-
 #### **Windows 🪟**
 
 - [Vs Code](https://code.visualstudio.com/)
