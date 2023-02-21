@@ -8,7 +8,7 @@
 <br>
 <br>
     
-# [<kbd><br>Enter Homepage<br></kbd>][KBD]
+# [<kbd><br>Enter Homepage<br></kbd>][Home]
 
 
 
@@ -20,7 +20,7 @@
 
 [License]: LICENSE
 
-[KBD]: Types/KBD.md
+[Home]: _home.md
 [#]: #
 
 <!---------------------------------[ Badges ]---------------------------------->
