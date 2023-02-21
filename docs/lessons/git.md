@@ -1,4 +1,4 @@
-# Git and Github
+# Git
 
 [Google Slide](google.com) | Duration: 45 min
 
@@ -39,15 +39,11 @@ The objective of this lesson is to provide you with the basic information about 
 ### fetch
 `git fetch`
 >
----
----
-## Github |Browser
-###
- Create a repository
+### Create a repository
 > ![Webpage, displaying how to create a github repository](../../assets/images/github-repository-setup.png ':size=35%')
 ---
 
-## Practice | Create A Group Repository
+## Practice | Time to branch
 **Use the command line to get the results below**
 1. With a partner, determine who is partner A and who is partner B will be.
 2. Partner A | Create a repository on [github.com](https://github.com). Partner B will watch.

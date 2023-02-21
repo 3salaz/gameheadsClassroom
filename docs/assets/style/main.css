@@ -1,4 +1,9 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&family=Noto+Sans+Tagbanwa&display=swap");
+* {
+  font-family: "Noto Sans Tagbanwa", sans-serif;
+}
+
 .sidebar-nav {
   /* background-color: aqua; */
   list-style-type: disc;
@@ -8,7 +13,7 @@
   content: "·";
   padding-right: 4px;
   float: left;
-  color: red;
+  color: #0095D9;
 }
 
 .flex-row {
@@ -20,4 +25,25 @@
 
 .app-name-link img {
   width: 90%;
+}
+
+.markdown-section {
+  background-color: white;
+  border-radius: 0.2em;
+}
+
+.sidebar-nav {
+  height: 80vh;
+}
+
+.sidebar-nav strong {
+  color: white;
+  padding: 0.1em 1em;
+  font-weight: 600;
+  border-radius: 0.2em;
+  background-color: #0095D9;
+}
+
+.sidebar-nav p {
+  border-top: 1px #0095D9 solid;
 }/*# sourceMappingURL=main.css.map */
