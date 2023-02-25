@@ -4,7 +4,7 @@
   - [Week 3 | March 4 - 10](week-03.md)
 
 - **Lesson 📚**
-  - [Linux](./lessons/linux.md)
+  - [Command Line](./lessons/command-line.md)
   - [Git](./lessons/git.md)
   - [GitHub](./lessons/github.md)
   - [HTML](./lessons/html.md)

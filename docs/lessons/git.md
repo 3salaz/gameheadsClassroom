@@ -1,6 +1,5 @@
 # Git
 
-[Google Slide](google.com) | Duration: 45 min
 
 ---
 **Course Objective:**
@@ -39,18 +38,20 @@ The objective of this lesson is to provide you with the basic information about 
 ### fetch
 `git fetch`
 >
-### Create a repository
-> ![Webpage, displaying how to create a github repository](../../assets/images/github-repository-setup.png ':size=35%')
 ---
 
 ## Practice | Time to branch
 **Use the command line to get the results below**
-1. With a partner, determine who is partner A and who is partner B will be.
-2. Partner A | Create a repository on [github.com](https://github.com). Partner B will watch.
-3. Partner B | Make a directrory called `gh-github-practice-1`
-4. Partner A | 
 
-
+1. Create a new directory (folder). Name it gitBranches
+2. Open your folder using your code editor. (Visual Studio Code)
+3. Open your terminal in your code editor.
+4. Initialize a new git repository using `git init`
+ex. `git init`
+5. Use the command `git checkout -b [my branch name]`
+- ex. `git checkout -b development`
+6. Use `git branch` to see your branches
+7. Use `git checkout [branch]` to move to a branch that is already created.
 
 
 

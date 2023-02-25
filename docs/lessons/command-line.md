@@ -1,15 +1,31 @@
-# Linux & Your Terminal
-
-[Google Slide](google.com) | Duration: 45 min
+# Command Line
 
 ---
 **Course Objective:**
 
 The objective of this lesson is to provide basic commands-line functionality. Be able to triverse your file system to move delete and copy files all from your terminal.
 
+# What is a command line???
+
+A command line is a text-based interface that allows you to interact with your computer by typing commands into a terminal window. It's a way of controlling your computer using text commands rather than clicking on icons or buttons with a mouse. When you enter a command into the command line, your computer will execute that command and give you a response. Some common examples of commands you can enter into a command line include opening a file, creating a new directory, or launching an application.
+
+The command line can be useful for a variety of reasons, including:
+- Speed: Once you become proficient with using the command line, you can often complete tasks more quickly than with a graphical user interface (GUI).
+- Automation: You can create scripts to automate repetitive tasks, which can save you a lot of time and effort.
+- Flexibility: The command line allows you to perform tasks that may not be possible or easy to do with a GUI. For example, you can quickly search through thousands of files for specific text strings or modify multiple files with a single command.
+- Remote access: You can use the command line to remotely access other computers, servers, or devices, which can be useful for managing systems or troubleshooting issues.
+- Efficiency: The command line typically uses fewer system resources than a GUI, which can be beneficial if you are working on a resource-constrained system.
 
 ## Structure
 ![ks](https://res.cloudinary.com/practicaldev/image/fetch/s--iBJ_bwEa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/lG5NuVa.png)
+
+## What is the command Line?
+
+> A text-based interface that allows you to interact with your computer by typing commands into a terminal window
+
+> It's a way of controlling your computer using text commands rather than clicking on icons or buttons with a mouse
+
+
 ##  Linux Commands:
 ---
 ### clear
