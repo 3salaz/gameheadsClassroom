@@ -5,7 +5,7 @@
 
 The objective of this lesson is to provide basic commands-line functionality. Be able to triverse your file system to move delete and copy files all from your terminal.
 
-# What is a command line???
+## What is a command line?
 
 A command line is a text-based interface that allows you to interact with your computer by typing commands into a terminal window. It's a way of controlling your computer using text commands rather than clicking on icons or buttons with a mouse. When you enter a command into the command line, your computer will execute that command and give you a response. Some common examples of commands you can enter into a command line include opening a file, creating a new directory, or launching an application.
 
@@ -18,13 +18,6 @@ The command line can be useful for a variety of reasons, including:
 
 ## Structure
 ![ks](https://res.cloudinary.com/practicaldev/image/fetch/s--iBJ_bwEa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/lG5NuVa.png)
-
-## What is the command Line?
-
-> A text-based interface that allows you to interact with your computer by typing commands into a terminal window
-
-> It's a way of controlling your computer using text commands rather than clicking on icons or buttons with a mouse
-
 
 ##  Linux Commands:
 ---
@@ -47,6 +40,7 @@ The command line can be useful for a variety of reasons, including:
 ### cp | Copy Directory
 `cp [OPTION] [Source] [Destination] `
 > Copy files from source to destination
+---
 ### mv | Move Directory
 `mv [Option] [Source] [Destination]`
 > This command allows you to move a file or folder to a new destination
